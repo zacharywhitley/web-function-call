@@ -1,0 +1,8 @@
+PREFIX wfn: <java:org.webofcode.atzori.>
+#PREFIX wfn: <http://webofcode.org/wfn/>
+PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
+select *
+{
+   BIND( wfn:call(fn:concat,'http://swipe.unica.it/3030/ds/sparql',"alpha","2") as ?x )
+} 
+
