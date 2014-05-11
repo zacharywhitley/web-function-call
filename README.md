@@ -1,0 +1,3 @@
+We developed a SPARQL function called `wfn:call` that takes as a parameter an URI representing a function and then other arguments for the specified function. The `wfn:call` function executes the specified URI function against an appropriate remote endpoint (that implements such a function), passing the arguments and getting the result back. It allows interoperable remote invocation of functions (including high-order functions) from within a SPARQL query. 
+
+Further details available at the [official website](http://atzori.webofcode.org/projects/wfn/).
