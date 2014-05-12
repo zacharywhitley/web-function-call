@@ -1,8 +1,11 @@
 PREFIX wfn: <java:org.webofcode.atzori.>
 #PREFIX wfn: <http://webofcode.org/wfn/>
 PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
-select *
+select ?f ?result
 {
-   BIND( wfn:call(fn:concat,'http://swipe.unica.it/3030/ds/sparql',"alpha","2") as ?x )
+   BIND(CONCAT(STR(fn:concat),"@http://dbpedia.org/sparql") AS ?f)
+
+   # this will be computed against the dbpedia endpoint 
+   BIND( wfn:call(?f,"alpha","beta") AS ?result )
 } 
 

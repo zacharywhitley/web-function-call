@@ -3,6 +3,7 @@ PREFIX wfn: <java:org.webofcode.atzori.>
 PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
 select *
 {
-   BIND( wfn:call(fn:concat,'http://dbpedia.org/sparql',"alpha","2") as ?x )
+   # will run on the default endpoint http://swipe.unica.it/jena/sparql
+   BIND( wfn:call(fn:concat,"alpha","2") as ?x )
 } 
 
