@@ -23,7 +23,7 @@ public class call extends FunctionBase {
     }
 
     @Override
-    public final NodeValue exec(List<NodeValue> args)
+    public NodeValue exec(List<NodeValue> args)
     {
         if ( args == null )
             // The contract on the function interface is that this should not happen.
@@ -31,16 +31,14 @@ public class call extends FunctionBase {
         
         if ( args.size() < 1 )
             throw new ExprEvalException("Function '"+Utils.className(this)+"' takes at least one argument") ;
-        
-        //NodeValue v1 = args.get(0) ;
-        
-        return compute(args) ;
+        NodeValue nvFunction = args.remove(0);
+        return compute(nvFunction, args) ;
     }
 
 
 
 
-    public NodeValue compute(/*NodeValue nvFunction, NodeValue nvEndpoint, NodeValue nvArg1, NodeValue nvArg2*/  List<NodeValue> args) {
+    public NodeValue compute(NodeValue nvFunction, /*NodeValue nvEndpoint, NodeValue nvArg1, NodeValue nvArg2*/  List<NodeValue> args) {
     
 	    String template = 	"SELECT ?result {" +
 				    "VALUES (?a) {('')} "+  // this line is required on VIRTUOSO 
@@ -48,14 +46,13 @@ public class call extends FunctionBase {
 				    "AS ?result)" +
 				    "} LIMIT 1";
 
-        String function = args.get(0).asUnquotedString();
+        String function = nvFunction.asUnquotedString();
 	    String service = ""; 
-        if(function.contains("|")) {
+        if(function.contains("@")) {
             // endpoint is specified
-            String[] s = function.split("|");
-            nvFunction = make
+            String[] s = function.split("@");
+            function = s[0];
             service = s[1];
-
         } else {
             // compute service by nvFunction
             service = "http://swipe.unica.it/jena/sparql";
@@ -74,7 +71,7 @@ public class call extends FunctionBase {
         }
 
 	    String query = template
-		    .replace("%func%",nvFunction.asUnquotedString())
+		    .replace("%func%",function)
 		    .replace("%args%",stringArguments);
 
         // for debug purpuses
