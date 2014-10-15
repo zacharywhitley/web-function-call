@@ -1,0 +1,6 @@
+select *
+from <http://dbpedia.org/data/Cagliari.rdf>
+where {
+    ?s ?p ?o
+} 
+limit 10

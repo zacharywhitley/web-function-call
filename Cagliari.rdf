@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:ns5="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:ns9="http://www.w3.org/ns/prov#"
+	xmlns:grs="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caterina_Murino">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignatius_of_Laconi">
+    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanni_Loy">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sardinian_Action_Party">
+    <dbpedia-owl:headquarter rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:headquarters rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amedeo_Nazzari">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgia_Palmas">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1999%E2%80%932000_A.C._Fiorentina_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_Parma_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_S.S.C._Napoli_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caralis">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrea_Cossu_(footballer_born_1980)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fausto_Cercignani">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gianni_Agus">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marisa_Pavan">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefano_Guberti">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Cagliari">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alessandro_de_Minicis">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alessio_Cossu">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuliano_Taccola">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicola_Murru">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernadette_Manca_di_Nissa">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Igort">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://el.dbpedia.org/resource/Κάλιαρι">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cagliari,_Italy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giudicato_of_Cagliari">
+    <dbpedia-owl:capital rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:capital rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claudio_Pani">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davide_Carrus">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Pisano">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gianluca_Festa">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marco_Mancosu">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paolo_Angioni">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_A.S._Roma_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Spano">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_of_Cagliari">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Bacallar">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saturninus_of_Cagliari">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniele_Ragatzu">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paola_Leone">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_S.S.C._Napoli_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_U.C._Sampdoria_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rossana_Ghessa">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cagliari">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Town108665504" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanTownsAndCitiesInItaly" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CitiesAndTownsInSardinia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MediterraneanPortCitiesAndTownsInItaly" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CoastalCitiesAndTownsInItaly" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WineRegionsOfItaly" />
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://zh_yue.dbpedia.org/resource/卡利亞里" />
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://roa_tara.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/קליארי" />
+    <owl:sameAs rdf:resource="http://lad.dbpedia.org/resource/Kagliari" />
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Кальярі" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κάλιαρι" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/კალიარი" />
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Caralis" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/கலியாரி" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1897" />
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://data.linkedopendata.it/scuole/resource/CAGLIARI" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/卡利亚里" />
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Càller" />
+    <owl:sameAs rdf:resource="http://uz.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://an.dbpedia.org/resource/Cáller" />
+    <owl:sameAs rdf:resource="http://nah.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Kaljaro" />
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://lij.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://fur.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://vo.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Каљари" />
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://scn.dbpedia.org/resource/Càgliari" />
+    <owl:sameAs rdf:resource="http://sw.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://ia.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node72990657" />
+    <owl:sameAs rdf:resource="http://co.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://lmo.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/كالياري" />
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Kaljāri" />
+    <owl:sameAs rdf:resource="http://mn.dbpedia.org/resource/Кальяри" />
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Castèl_(vila)" />
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/کالیاری" />
+    <owl:sameAs rdf:resource="http://sc.dbpedia.org/resource/Casteddu" />
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Kaljaris" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/کاگلیاری" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0c7l_" />
+    <owl:sameAs rdf:resource="http://mr.dbpedia.org/resource/काग्लियारी" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Кальяри" />
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/Kalyari" />
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Каляри" />
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/6540125/" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/カリャリ" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://pms.dbpedia.org/resource/Càliari" />
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Cagliari_(stad)" />
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://lb.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://nap.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Горад_Кальяры" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://qu.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/กาลยารี" />
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Кальяри" />
+    <owl:sameAs rdf:resource="http://os.dbpedia.org/resource/Кальяри" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://mt.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Lungsod_ng_Cagliari" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/칼리아리" />
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Cagliari" />
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Casteddu" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wine_regions_of_Italy" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Coastal_cities_and_towns_in_Italy" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Mediterranean_port_cities_and_towns_in_Italy" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cities_and_towns_in_Sardinia" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:7th-century_BC_establishments" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cagliari" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Phoenician_colonies" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_towns_and_cities_in_Italy" />
+    <ns5:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">85.45</ns5:areaTotal>
+    <dbpedia-owl:abstract xml:lang="en">Cagliari is an Italian municipality and the capital of the island of Sardinia, an Autonomous Region of Italy. Cagliari&#39;s Sardinian name Casteddu literally means castle. It has 149.883 inhabitants, and 453.728 including its: Elmas, Assemini, Capoterra, Selargius, Sestu, Monserrato, Quartucciu, Quartu Sant&#39;Elena and other 15 municipalities. An ancient city with a long history, Cagliari has seen the rule of several civilizations. It was the capital of the Kingdom of Sardinia (which in 1861 became the Kingdom of Italy) from 1324 to 1848, when Turin, the mansion of the sovereigns, became the formal capital of the kingdom. Seat of the important University of Cagliari from 1607 and the Primate Roman Catholic archdiocese of Sardinia, from the 5th century AD, the city is an important regional cultural, educational, political and artistic centre, known for its diverse Art Nouveau architecture and several monuments. It is also Sardinia&#39;s economic and industrial hub, having one of the biggest ports in the Mediterranean sea, an international airport, and the 28th highest income rate in Italy, comparable to several Northern cities, such as Turin, Vicenza and Genoa. Under the buildings of the modern city there is a continuous stratification of human settlements of about five thousands years, from neolithic era to today. There are the Domus de janas, very ruined by cave activity, a great Carthaginian era necropolis, a great roman era amphitheater, a byzantine basilica, two extraordinary Pisan-era towers, a formidable system of fortification that made the town the core of the Spanish Habsburg imperial power in the western Mediterranean sea. Its natural resources have always been its sheltered harbor, the oft-powerfully fortified hill of Monti Castru, the modern Casteddu, the salt from its lagoon, and, from inland, the Campidanian plain wheat and the Iglesiente mines.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">Cagliari es un municipio italiano que posee 155.919 habitantes. Es capital de la Región autónoma de Cerdeña y se sitúa en la zona meridional de la isla frente al golfo al que da nombre. Incluyendo a los suburbios (Elmas, Assemini, Capoterra, Quartucciu, Quartu Sant&#39;Elena, Monserrato, Sestu, Selargius), el área metropolitana comprende una población de unos 500.000 habitantes. Esta ciudad tiene un buen número de lugares de interés histórico que conviven con un ambiente moderno. La ciudad se construyó sobre siete colinas y data de la época de los fenicios y los púnicos. También posee ruinas romanas. Igualmente, se pueden ver restos de las invasiones pisanas y aragonesas de la isla durante los primeros siglos del pasado milenio. Cagliari tiene una de las playas urbanas más extensas de Italia. La playa de Su Poettu Il Poetto (del catalàn el pouet, pequeño pozo) tiene unos 13 km. Hacia el oeste de la ciudad, un puerto sirve a un parque industrial. Cagliari tiene un clima benigno, a veces refrescado por los vientos del noroeste. Se encuentra cerca de pueblos costeros muy bonitos, como Pula, Chia o Villasimius, todavía relativamente poco explotados por el turismo, y está cerca de montañas como Monte Arcosu, Serpeddì o Sette Fratelli con extensos bosques y fauna diversa.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Cagliari est une ville italienne de la province de même nom dans la région autonome de Sardaigne. La population de la ville-centre dépasse les 150 000 habitants, celle de l&#39;agglomération approche les 500 000 unités.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">カリャリ（イタリア語: Cagliari ）は、イタリア共和国のサルデーニャ島南部に位置する都市で、周辺地域を含む人口約15万人の基礎自治体（コムーネ）。サルデーニャ自治州の州都であり、カリャリ県の県都でもある。カリアリとも表記される。 カリャリ湾に面したサルデーニャ最大の都市で、郊外コムーネを含めて人口約50万人の大都市圏を形成している。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Cagliari ou Cálhari é uma comuna italiana localizada na Sardenha, sendo a capital e maior cidade da província de Cagliari e da região da Sardenha, com cerca de 158.351 habitantes. Estende-se por uma área de 85 km², tendo uma densidade populacional de 1863 hab/km². Faz fronteira com Assemini, Capoterra, Elmas, Monserrato, Quartu Sant&#39;Elena, Quartucciu, Selargius, Sestu.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">卡利亚里（意大利语：Cagliari），是撒丁岛的首府，是意大利内的一个自治区。 卡利亚里在萨丁尼亚语是称为Casteddu（照字面地是指「城堡」），位處薩丁尼亞島南部，屬海港都市。它大约有170,000人口，如包括城市边缘（大都市地区）则有大约300,000人口。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Cagliari è un comune italiano di 149.664 abitanti, capoluogo dell&#39;omonima provincia e della regione Sardegna. È una delle 15 città metropolitane italiane, la cui area metropolitana supera i 424.000 abitanti, che divengono 488.000 con l&#39;agglomerato urbano diffuso. La città di Cagliari è sede universitaria e arcivescovile. Città dalla storia plurimillenaria, è il centro amministrativo storico dell&#39;isola essendo stata, sotto la denominazione di Caralis, capoluogo della provincia di Sardinia et Corsica durante il periodo romano e successivamente capitale del Regno di Sardegna, dal 1324 al 1720, e poi dal 1798 al 1814. Il suo porto è classificato &quot;internazionale&quot; per via della sua importanza nel panorama italiano e internazionale; svolge funzioni commerciali, industriali, turistiche e di servizio per passeggeri.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pl">Cagliari [czyt. &#39;kaljari] (sard. Casteddu - zamek) – miasto i gmina we Włoszech, stolica autonomicznego regionu Sardynia i prowincji Cagliari. Miasto Cagliari znajduje się na południowym wybrzeżu Sardynii, nad zatoką o tej samej nazwie i na równinie Campidiano. Według danych na rok 2008 gminę zamieszkuje 157 780 osób, 1846 os. /km².</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">Cagliari is de hoofdstad van het eiland Sardinië, een autonome regio van Italië. Het is bovendien hoofdstad van de provincie Cagliari. Dicht bij de stad ligt het vliegveld (&quot;Cagliari-Elmas&quot;) en de stad heeft een belangrijke haven. De volgende frazioni maken deel uit van de gemeente: Pirri, Poetto, Giorgino. Cagliari heet Casteddu (letterlijk, het kasteel) in het Sardisch. De stad heeft ongeveer 165.000 inwoners, of ongeveer 478.000 inclusief de buitenwijken. Het is een universiteitsstad.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Ка́льяри (Калья́ри) — город в итальянском регионе Сардиния, административный центр провинции. Покровителем города считается святой Сатурнино. Праздник города 30 октября.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="sv">Denna artikel handlar om staden Cagliari. Se också Cagliari (provins). Koordinater: 39°14′47″N 09°03′27″O﻿ / ﻿39.24639, 9.0575{{#coordinates:39|14|47|N|09|03|27|E|type:landmark_region:IT|name=}}&lt;/div&gt; Cagliari (Casteddu) Kommun Fil:Collage Cagliari. jpg &lt;tr&gt; &lt;td colspan=&quot;2&quot;&gt; Fil:Flag of Cagliari. svgFlagga 90pxVapen &lt;/td&gt; &lt;/tr&gt; Land 22x20px Italien Region Sardinien Provins Cagliari (CA) Höjdläge Koordinater 14|47|N|09|03|27|E|type:landmark_region:IT|name=}} Yta 85,45 km² Folkmängd 178 886 (2 011)  - benämnning på invånarna cagliaritani Befolkningstäthet 1 882,81 invånare/km² Postnummer 09100 (inom staden 37121 till 37139) Riktnummer 070 ISTAT-kod 092009 Beskattningskod B354 Skyddspatron San Saturnino Festdag 30 oktober &lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; Cagliaris läge i Italien. 9px Cagliaris läge i Italien. &lt;/td&gt;&lt;/tr&gt; Webbplats: comune. cagliari. it Cagliari, (CA), på sardiska Casteddu, stad på Sardinien. Staden har cirka 178 000 invånare och är huvudort i provinsen Cagliari samt huvudstad i den italienska regionen Sardinien. Staden ligger vid Golfo di Cagliari.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Cagliari ist die größte Stadt Sardiniens, Hauptstadt der Autonomen Region Sardinien in Italien sowie Hauptstadt der Provinz Cagliari. Die Stadt selbst hat 155.887 Einwohner (Stand 31.  Dezember 2011), Agglomeration etwa 470.000, und liegt im Süden der Insel, am Ufer des nach ihr benannten Golfes. Die Hafenstadt verfügt über eine Universität und ist Sitz des Erzbistums Cagliari. Die Altstadt von Cagliari wird Castello genannt und befindet sich auf einer Hügelspitze, von der aus man den gesamten Golf von Cagliari überblicken kann.</dbpedia-owl:abstract>
+    <dbpedia-owl:areaCode xml:lang="en">070</dbpedia-owl:areaCode>
+    <dbpedia-owl:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.545e+07</dbpedia-owl:areaTotal>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Italy" />
+    <dbpedia-owl:elevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</dbpedia-owl:elevation>
+    <dbpedia-owl:leaderParty rdf:resource="http://dbpedia.org/resource/Left_Ecology_Freedom" />
+    <dbpedia-owl:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-11-30</dbpedia-owl:populationAsOf>
+    <dbpedia-owl:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</dbpedia-owl:populationTotal>
+    <dbpedia-owl:postalCode xml:lang="en">09100</dbpedia-owl:postalCode>
+    <dbpedia-owl:province rdf:resource="http://dbpedia.org/resource/Province_of_Cagliari" />
+    <dbpedia-owl:region rdf:resource="http://dbpedia.org/resource/Sardinia" />
+    <dbpedia-owl:saint rdf:resource="http://dbpedia.org/resource/Saturninus_of_Cagliari" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44950</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548623989</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="zh">卡利亚里</rdfs:label>
+    <rdfs:label xml:lang="pl">Cagliari</rdfs:label>
+    <rdfs:label xml:lang="de">Cagliari</rdfs:label>
+    <rdfs:label xml:lang="es">Cagliari</rdfs:label>
+    <rdfs:label xml:lang="ja">カリャリ</rdfs:label>
+    <rdfs:label xml:lang="it">Cagliari</rdfs:label>
+    <rdfs:label xml:lang="nl">Cagliari (stad)</rdfs:label>
+    <rdfs:label xml:lang="en">Cagliari</rdfs:label>
+    <rdfs:label xml:lang="fr">Cagliari</rdfs:label>
+    <rdfs:label xml:lang="pt">Cagliari</rdfs:label>
+    <rdfs:label xml:lang="sv">Cagliari</rdfs:label>
+    <rdfs:label xml:lang="ru">Кальяри</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Cagliari.svg" />
+    <rdfs:comment xml:lang="fr">Cagliari est une ville italienne de la province de même nom dans la région autonome de Sardaigne. La population de la ville-centre dépasse les 150 000 habitants, celle de l&#39;agglomération approche les 500 000 unités.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Cagliari is an Italian municipality and the capital of the island of Sardinia, an Autonomous Region of Italy. Cagliari&#39;s Sardinian name Casteddu literally means castle. It has 149.883 inhabitants, and 453.728 including its: Elmas, Assemini, Capoterra, Selargius, Sestu, Monserrato, Quartucciu, Quartu Sant&#39;Elena and other 15 municipalities. An ancient city with a long history, Cagliari has seen the rule of several civilizations.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Cagliari es un municipio italiano que posee 155.919 habitantes. Es capital de la Región autónoma de Cerdeña y se sitúa en la zona meridional de la isla frente al golfo al que da nombre. Incluyendo a los suburbios (Elmas, Assemini, Capoterra, Quartucciu, Quartu Sant&#39;Elena, Monserrato, Sestu, Selargius), el área metropolitana comprende una población de unos 500.000 habitantes. Esta ciudad tiene un buen número de lugares de interés histórico que conviven con un ambiente moderno.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Cagliari è un comune italiano di 149.664 abitanti, capoluogo dell&#39;omonima provincia e della regione Sardegna. È una delle 15 città metropolitane italiane, la cui area metropolitana supera i 424.000 abitanti, che divengono 488.000 con l&#39;agglomerato urbano diffuso. La città di Cagliari è sede universitaria e arcivescovile.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Cagliari ou Cálhari é uma comuna italiana localizada na Sardenha, sendo a capital e maior cidade da província de Cagliari e da região da Sardenha, com cerca de 158.351 habitantes. Estende-se por uma área de 85 km², tendo uma densidade populacional de 1863 hab/km². Faz fronteira com Assemini, Capoterra, Elmas, Monserrato, Quartu Sant&#39;Elena, Quartucciu, Selargius, Sestu.</rdfs:comment>
+    <rdfs:comment xml:lang="sv">Denna artikel handlar om staden Cagliari. Se också Cagliari (provins). Koordinater: 39°14′47″N 09°03′27″O﻿ / ﻿39.24639, 9.0575{{#coordinates:39|14|47|N|09|03|27|E|type:landmark_region:IT|name=}}&lt;/div&gt; Cagliari (Casteddu) Kommun Fil:Collage Cagliari. jpg &lt;tr&gt; &lt;td colspan=&quot;2&quot;&gt; Fil:Flag of Cagliari.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Cagliari [czyt. &#39;kaljari] (sard. Casteddu - zamek) – miasto i gmina we Włoszech, stolica autonomicznego regionu Sardynia i prowincji Cagliari. Miasto Cagliari znajduje się na południowym wybrzeżu Sardynii, nad zatoką o tej samej nazwie i na równinie Campidiano. Według danych na rok 2008 gminę zamieszkuje 157 780 osób, 1846 os. /km².</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Cagliari is de hoofdstad van het eiland Sardinië, een autonome regio van Italië. Het is bovendien hoofdstad van de provincie Cagliari. Dicht bij de stad ligt het vliegveld (&quot;Cagliari-Elmas&quot;) en de stad heeft een belangrijke haven. De volgende frazioni maken deel uit van de gemeente: Pirri, Poetto, Giorgino. Cagliari heet Casteddu (letterlijk, het kasteel) in het Sardisch. De stad heeft ongeveer 165.000 inwoners, of ongeveer 478.000 inclusief de buitenwijken. Het is een universiteitsstad.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Cagliari ist die größte Stadt Sardiniens, Hauptstadt der Autonomen Region Sardinien in Italien sowie Hauptstadt der Provinz Cagliari. Die Stadt selbst hat 155.887 Einwohner (Stand 31.  Dezember 2011), Agglomeration etwa 470.000, und liegt im Süden der Insel, am Ufer des nach ihr benannten Golfes. Die Hafenstadt verfügt über eine Universität und ist Sitz des Erzbistums Cagliari.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">卡利亚里（意大利语：Cagliari），是撒丁岛的首府，是意大利内的一个自治区。 卡利亚里在萨丁尼亚语是称为Casteddu（照字面地是指「城堡」），位處薩丁尼亞島南部，屬海港都市。它大约有170,000人口，如包括城市边缘（大都市地区）则有大约300,000人口。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">カリャリ（イタリア語: Cagliari ）は、イタリア共和国のサルデーニャ島南部に位置する都市で、周辺地域を含む人口約15万人の基礎自治体（コムーネ）。サルデーニャ自治州の州都であり、カリャリ県の県都でもある。カリアリとも表記される。 カリャリ湾に面したサルデーニャ最大の都市で、郊外コムーネを含めて人口約50万人の大都市圏を形成している。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ка́льяри (Калья́ри) — город в итальянском регионе Сардиния, административный центр провинции. Покровителем города считается святой Сатурнино. Праздник города 30 октября.</rdfs:comment>
+    <foaf:name xml:lang="en">Comune di Cagliari</foaf:name>
+    <foaf:name xml:lang="en">Cagliari</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Cagliari.svg/200px-Flag_of_Cagliari.svg.png" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.comune.cagliari.it" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.visit-cagliari.com" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.comune.cagliari.it/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.casteddu.com" />
+    <dbpprop:aprHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.6</dbpprop:aprHighC>
+    <dbpprop:aprLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.9</dbpprop:aprLowC>
+    <dbpprop:aprMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.7</dbpprop:aprMeanC>
+    <dbpprop:aprRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbpprop:aprRainDays>
+    <dbpprop:aprRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.7</dbpprop:aprRainMm>
+    <dbpprop:aprSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</dbpprop:aprSun>
+    <dbpprop:areaCode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</dbpprop:areaCode>
+    <dbpprop:areaTotalKm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">85.45</dbpprop:areaTotalKm>
+    <dbpprop:augHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.8</dbpprop:augHighC>
+    <dbpprop:augLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.6</dbpprop:augLowC>
+    <dbpprop:augMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.2</dbpprop:augMeanC>
+    <dbpprop:augRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.3</dbpprop:augRainDays>
+    <dbpprop:augRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.5</dbpprop:augRainMm>
+    <dbpprop:augSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</dbpprop:augSun>
+    <dbpprop:coordinatesDisplay xml:lang="en">title</dbpprop:coordinatesDisplay>
+    <dbpprop:coordinatesType xml:lang="en">region:IT_type:city</dbpprop:coordinatesType>
+    <dbpprop:date xml:lang="en">April 2012</dbpprop:date>
+    <dbpprop:day rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-30</dbpprop:day>
+    <dbpprop:decHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.4</dbpprop:decHighC>
+    <dbpprop:decLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.6</dbpprop:decLowC>
+    <dbpprop:decMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbpprop:decMeanC>
+    <dbpprop:decRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.4</dbpprop:decRainDays>
+    <dbpprop:decRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.9</dbpprop:decRainMm>
+    <dbpprop:decSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">127.1</dbpprop:decSun>
+    <dbpprop:elevationM rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbpprop:elevationM>
+    <dbpprop:febHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.8</dbpprop:febHighC>
+    <dbpprop:febLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.8</dbpprop:febLowC>
+    <dbpprop:febMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.3</dbpprop:febMeanC>
+    <dbpprop:febRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.8</dbpprop:febRainDays>
+    <dbpprop:febRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.3</dbpprop:febRainMm>
+    <dbpprop:febSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">139.2</dbpprop:febSun>
+    <dbpprop:frazioni xml:lang="en">Pirri</dbpprop:frazioni>
+    <dbpprop:imageCaption xml:lang="en">A montage showing different parts and features of the city of Cagliari, Top left:Saint Anna Cathedral, Top right:View of Cagliari Port, Via Rome Square and Historial area, Bottom left:San Remy Bastion, Bottom center:Carto Felice Statue in Yanne Square, Bottom right:Sella the Diavolo Coast</dbpprop:imageCaption>
+    <dbpprop:imageFlag xml:lang="en">Flag of Cagliari.svg</dbpprop:imageFlag>
+    <dbpprop:imageShield xml:lang="en">Cagliari-Stemma.png</dbpprop:imageShield>
+    <dbpprop:imageSkyline xml:lang="en">Collage Cagliari.jpg</dbpprop:imageSkyline>
+    <dbpprop:janHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.3</dbpprop:janHighC>
+    <dbpprop:janLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.5</dbpprop:janLowC>
+    <dbpprop:janMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.9</dbpprop:janMeanC>
+    <dbpprop:janRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.8</dbpprop:janRainDays>
+    <dbpprop:janRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.7</dbpprop:janRainMm>
+    <dbpprop:janSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">136.4</dbpprop:janSun>
+    <dbpprop:julHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.4</dbpprop:julHighC>
+    <dbpprop:julLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.9</dbpprop:julLowC>
+    <dbpprop:julMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.7</dbpprop:julMeanC>
+    <dbpprop:julRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8</dbpprop:julRainDays>
+    <dbpprop:julRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</dbpprop:julRainMm>
+    <dbpprop:julSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">334.8</dbpprop:julSun>
+    <dbpprop:junHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.3</dbpprop:junHighC>
+    <dbpprop:junLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.2</dbpprop:junLowC>
+    <dbpprop:junMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.7</dbpprop:junMeanC>
+    <dbpprop:junRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1</dbpprop:junRainDays>
+    <dbpprop:junRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.9</dbpprop:junRainMm>
+    <dbpprop:junSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</dbpprop:junSun>
+    <dbpprop:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</dbpprop:latd>
+    <dbpprop:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbpprop:latm>
+    <dbpprop:latns xml:lang="en">N</dbpprop:latns>
+    <dbpprop:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</dbpprop:lats>
+    <dbpprop:location xml:lang="en">Cagliari</dbpprop:location>
+    <dbpprop:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dbpprop:longd>
+    <dbpprop:longew xml:lang="en">E</dbpprop:longew>
+    <dbpprop:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbpprop:longm>
+    <dbpprop:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</dbpprop:longs>
+    <dbpprop:marHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.5</dbpprop:marHighC>
+    <dbpprop:marLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.1</dbpprop:marLowC>
+    <dbpprop:marMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.8</dbpprop:marMeanC>
+    <dbpprop:marRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.8</dbpprop:marRainDays>
+    <dbpprop:marRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4</dbpprop:marRainMm>
+    <dbpprop:marSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</dbpprop:marSun>
+    <dbpprop:mayHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.9</dbpprop:mayHighC>
+    <dbpprop:mayLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.4</dbpprop:mayLowC>
+    <dbpprop:mayMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.7</dbpprop:mayMeanC>
+    <dbpprop:mayRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</dbpprop:mayRainDays>
+    <dbpprop:mayRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.1</dbpprop:mayRainMm>
+    <dbpprop:maySun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">269.7</dbpprop:maySun>
+    <dbpprop:mayor xml:lang="en">Massimo Zedda</dbpprop:mayor>
+    <dbpprop:mayorParty rdf:resource="http://dbpedia.org/resource/Left_Ecology_Freedom" />
+    <dbpprop:metricFirst xml:lang="en">yes</dbpprop:metricFirst>
+    <dbpprop:name xml:lang="en">Cagliari</dbpprop:name>
+    <dbpprop:novHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.3</dbpprop:novHighC>
+    <dbpprop:novLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.3</dbpprop:novLowC>
+    <dbpprop:novMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.8</dbpprop:novMeanC>
+    <dbpprop:novRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.4</dbpprop:novRainDays>
+    <dbpprop:novRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">58.4</dbpprop:novRainMm>
+    <dbpprop:novSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</dbpprop:novSun>
+    <dbpprop:octHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.1</dbpprop:octHighC>
+    <dbpprop:octLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.7</dbpprop:octLowC>
+    <dbpprop:octMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.4</dbpprop:octMeanC>
+    <dbpprop:octRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</dbpprop:octRainDays>
+    <dbpprop:octRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.6</dbpprop:octRainMm>
+    <dbpprop:octSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">198.4</dbpprop:octSun>
+    <dbpprop:officialName xml:lang="en">Comune di Cagliari</dbpprop:officialName>
+    <dbpprop:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbpprop:populationAsOf>
+    <dbpprop:populationDemonym xml:lang="en">Cagliaritani</dbpprop:populationDemonym>
+    <dbpprop:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">149.883</dbpprop:populationTotal>
+    <dbpprop:postalCode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9100</dbpprop:postalCode>
+    <dbpprop:province rdf:resource="http://dbpedia.org/resource/Province_of_Cagliari" />
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Sardinia" />
+    <dbpprop:saint rdf:resource="http://dbpedia.org/resource/Saturninus_of_Cagliari" />
+    <dbpprop:sepHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.4</dbpprop:sepHighC>
+    <dbpprop:sepLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.1</dbpprop:sepLowC>
+    <dbpprop:sepMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.3</dbpprop:sepMeanC>
+    <dbpprop:sepRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</dbpprop:sepRainDays>
+    <dbpprop:sepRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.9</dbpprop:sepRainMm>
+    <dbpprop:sepSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</dbpprop:sepSun>
+    <dbpprop:singleLine xml:lang="en">yes</dbpprop:singleLine>
+    <dbpprop:source xml:lang="en">Servizio Meteorologico, Hong Kong Observatory for data of sunshine hours</dbpprop:source>
+    <dbpprop:unitRainDays rdf:datatype="http://dbpedia.org/datatype/millimetre">1.0</dbpprop:unitRainDays>
+    <dbpprop:yearHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.7</dbpprop:yearHighC>
+    <dbpprop:yearLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.8</dbpprop:yearLowC>
+    <dbpprop:yearMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.7</dbpprop:yearMeanC>
+    <dbpprop:yearRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">61.6</dbpprop:yearRainDays>
+    <dbpprop:yearRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">427.5</dbpprop:yearRainMm>
+    <dbpprop:yearSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2595.6</dbpprop:yearSun>
+    <foaf:homepage rdf:resource="http://www.comune.cagliari.it/" />
+    <foaf:homepage rdf:resource="http://www.comune.cagliari.it" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-city-noun-3" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(9.0575 39.2464)</geo:geometry>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Cagliari" />
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">9.0575</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">39.2464</geo:lat>
+    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Cagliari?oldid=548623989" />
+    <grs:point xml:lang="en">39.24638888888889 9.0575</grs:point>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cagliari" />
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1433</dbpedia-owl:wikiPageInLinkCount>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</dbpedia-owl:wikiPageOutLinkCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Castro">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_I_of_Sicily">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009%E2%80%9310_ACF_Fiorentina_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_Bologna_F.C._1909_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaoswave">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrea_Capone">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claudia_Testoni">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L&#39;Unione_Sarda">
+    <dbpedia-owl:headquarter rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:headquarters rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marco_Carta">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enrico_Cotza">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_of_Horta">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995%E2%80%9396_A.C._Fiorentina_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_Coppa_Italia">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_Juventus_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_S.S._Lazio_season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/England_national_football_team_results_(1980%E2%80%9399)">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008%E2%80%9309_A.S._Roma_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008%E2%80%9309_Juventus_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009%E2%80%9310_Parma_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_A.C._Cesena_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_A.C._Siena_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trolleybuses_in_Cagliari">
+    <dbpprop:locale rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gianluca_Floris">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Cristina_of_Savoy">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Ireland_at_the_FIFA_World_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strada_statale_131_Charles_Felix">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpedia-owl:routeEnd rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:cities rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:terminusB rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiscali">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alberto_Gallardo">
+    <dbpprop:clubs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alberto_Loddo">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicola_Lai">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sardinian_Reformers">
+    <dbpedia-owl:headquarter rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stadio_Sant&#39;Elia">
+    <dbpedia-owl:owner rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_Calcio_Catania_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saremar">
+    <dbpedia-owl:locationCity rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:locationCity rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1990_FIFA_World_Cup_Group_F">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_F.C._Internazionale_Milano_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_Udinese_Calcio_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007%E2%80%9308_ACF_Fiorentina_season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_ACF_Fiorentina_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliviero_Diliberto">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrovie_della_Sardegna">
+    <dbpedia-owl:locationCity rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008%E2%80%9309_ACF_Fiorentina_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_ACF_Fiorentina_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_Davis_Cup_Europe/Africa_Zone">
+    <dbpprop:rd2t1Loc rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fausta_Cialente">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/EuroBasket_Women_2011_qualification">
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_Coppa_Italia">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004_Davis_Cup_Europe/Africa_Zone">
+    <dbpprop:rd1t1Loc rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignazio_Fresu">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Capuana">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カリャリ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ko.dbpedia.org/resource/칼리아리">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Кальяри">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cagliari_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1970%E2%80%9371_European_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_Davis_Cup">
+    <dbpprop:rd2t1Loc rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Ambu">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008%E2%80%9309_Coppa_Italia">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_S.S._Lazio_season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Progetto_Calcio_Sant&#39;Elia">
+    <dbpedia-owl:ground rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:ground rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Sardinia_and_Corsica">
+    <dbpedia-owl:capital rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:capital rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1969%E2%80%9370_Inter-Cities_Fairs_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mauro_Vargiu">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Congiato">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1996%E2%80%9397_A.C._Fiorentina_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_FIBA_Europe_Under-16_Women_Championship_Division_B">
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_FIBA_Europe_Under-18_Championship_for_Women">
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carales">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012%E2%80%9313_U.S._Citt%C3%A0_di_Palermo_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cagliari_railway_station">
+    <dbpprop:comune rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_FIBA_Europe_Under-16_Championship_for_Women">
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marisa_Sannia">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Netherlands_at_the_FIFA_World_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erminio_Costa">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Province_of_Cagliari">
+    <dbpprop:seat rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1968_Davis_Cup">
+    <dbpprop:rd1t5Loc rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pier_Angeli">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandro_Floris">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1972_Anglo-Italian_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrea_Cocco">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrea_Pisanu">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vacca_(rapper)">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentino_Lai">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994%E2%80%9395_A.C._Fiorentina_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1998%E2%80%9399_A.C._Fiorentina_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1998%E2%80%9399_Piacenza_Calcio_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009%E2%80%9310_A.S._Roma_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009%E2%80%9310_Juventus_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009%E2%80%9310_S.S.C._Napoli_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1972%E2%80%9373_UEFA_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UEFA_Euro_1968_qualifying">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007%E2%80%9308_Juventus_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UN/LOCODE:ITCAG">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994%E2%80%9395_Juventus_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994_FIFA_World_Cup_qualification_(UEFA_%E2%80%93_Group_1)">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CA">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1990_Davis_Cup">
+    <dbpprop:rd1t8Loc rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Circuito_di_Cagliari">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004%E2%80%9305_Parma_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Jos%C3%A9phine_of_Savoy">
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993%E2%80%9394_UEFA_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gian_Luigi_Gessa">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2005%E2%80%9306_Juventus_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010%E2%80%9311_A.S._Roma_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_Parma_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aloysius_Varsi">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cagliari_City_Council">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Casteddu">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Castel_di_Castro">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karalis">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Banca_di_Credito_Sardo">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FIBA_EuroBasket_2009_qualification">
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Cagliari">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2005%E2%80%9306_Parma_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2006%E2%80%9307_Parma_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Cagliari_(stad)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cagliari_Elmas_Airport">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:cityServed rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Antonio_Boi">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domenico_Lovisato">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignazio_Carta">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Lilliu">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clara_Podda">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cagliari" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007%E2%80%9308_Parma_F.C._season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1897">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/卡利亚里">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://af.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://an.dbpedia.org/resource/Cáller">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ar.dbpedia.org/resource/كالياري">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://az.dbpedia.org/resource/Kalyari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be.dbpedia.org/resource/Горад_Кальяры">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bg.dbpedia.org/resource/Каляри">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://br.dbpedia.org/resource/Casteddu">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bs.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/Càller">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://co.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cy.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kaljaro">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://et.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/کالیاری">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ga.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gl.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/קליארי">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hr.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ia.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://io.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://is.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ka.dbpedia.org/resource/კალიარი">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kk.dbpedia.org/resource/Кальяри">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://la.dbpedia.org/resource/Caralis">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lb.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lt.dbpedia.org/resource/Kaljaris">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lv.dbpedia.org/resource/Kaljāri">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mr.dbpedia.org/resource/काग्लियारी">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ms.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nah.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nap.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nn.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oc.dbpedia.org/resource/Castèl_(vila)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://os.dbpedia.org/resource/Кальяри">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pms.dbpedia.org/resource/Càliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pnb.dbpedia.org/resource/کاگلیاری">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://qu.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ro.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scn.dbpedia.org/resource/Càgliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sk.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sl.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Каљари">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sw.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ta.dbpedia.org/resource/கலியாரி">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://th.dbpedia.org/resource/กาลยารี">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tl.dbpedia.org/resource/Lungsod_ng_Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Кальярі">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uz.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vi.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://war.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lmo.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fur.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lad.dbpedia.org/resource/Kagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lij.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mn.dbpedia.org/resource/Кальяри">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mt.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://roa_tara.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sc.dbpedia.org/resource/Casteddu">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vo.dbpedia.org/resource/Cagliari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh_yue.dbpedia.org/resource/卡利亞里">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cagliari" />
+  </rdf:Description>
+</rdf:RDF>

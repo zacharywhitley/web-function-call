@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" >
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/AdministrativeRegion">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Atoll">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Island" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/City">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Settlement" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Continent">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/PopulatedPlace">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Settlement">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Town">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Settlement" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Village">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Settlement" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Island">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Country">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Department">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/State">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/CityDistrict">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Settlement" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Municipality">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/GovernmentalAdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Deanery">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/ClericalAdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Regency">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/GovernmentalAdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/FrenchLocality">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Locality" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Diocese">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/ClericalAdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Intercommunality">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Territory">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/OldTerritory">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Territory" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Region">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/IranSettlement">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Settlement" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/NaturalRegion">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/GovernmentalAdministrativeRegion">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/DistrictWaterBoard">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/GovernmentalAdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Locality">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/OverseasDepartment">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Department" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/ClericalAdministrativeRegion">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/District">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/GovernmentalAdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Province">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/GovernmentalAdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Parish">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/ClericalAdministrativeRegion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Prefecture">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/SubMunicipality">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/GovernmentalAdministrativeRegion" />
+  </rdf:Description>
+</rdf:RDF>
