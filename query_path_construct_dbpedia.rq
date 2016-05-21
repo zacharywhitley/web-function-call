@@ -1,0 +1,7 @@
+construct {
+	?a rdfs:subClassOf ?b
+}
+where {
+	?a rdfs:subClassOf ?b .
+	dbpedia-owl:Village rdfs:subClassOf* ?a
+} LIMIT 100

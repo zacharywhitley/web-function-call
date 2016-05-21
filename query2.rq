@@ -1,0 +1,11 @@
+PREFIX afn: <http://jena.hpl.hp.com/ARQ/function#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX fn: <java:org.example.functions.>
+
+SELECT *
+#FROM <http://dbpedia.org/data/Cagliari.rdf>
+{ 
+    BIND( afn:pi()  AS ?a )
+    ?s ?p ?o
+ FILTER(?o < afn:pi() )
+}

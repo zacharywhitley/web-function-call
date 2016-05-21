@@ -1,0 +1,5 @@
+select *
+from named <Cagliari.rdf>
+where {
+?s ?p ?o
+}

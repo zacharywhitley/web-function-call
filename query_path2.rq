@@ -1,0 +1,15 @@
+#PREFIX wfn : <http://webofcode.org/wfn/>
+PREFIX wfn: <java:org.webofcode.atzori.>
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+
+SELECT ?resultX { 
+	# bind variables to parameter values 
+	VALUES (?query ?endpoint) { ( 
+		"""?i0 <http://www.w3.org/2000/01/rdf-schema#subClassOf> ?next. BIND( IF(?next = <http://dbpedia.org/ontology/PopulatedPlace>, CONCAT( str(?i0) , ' => ', str(?next) ) , CONCAT(str(?i0) , ' => ' ,  wfn:runSPARQL(?query, ?endpoint, ?next) )) AS ?result)"""
+		"http://runsparql.webofcode.org/sparql"
+	)}
+
+	# actual call of the recursive query 
+	BIND( wfn:runSPARQL(?query,?endpoint, dbpedia-owl:Village) AS ?resultX)
+
+} LIMIT 1

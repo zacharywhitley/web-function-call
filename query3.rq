@@ -1,0 +1,12 @@
+PREFIX afn: <http://jena.hpl.hp.com/ARQ/function#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX wfn: <java:org.webofcode.atzori.>
+
+SELECT *
+#FROM <http://dbpedia.org/data/Cagliari.rdf>
+{ 
+    BIND( afn:pi()  AS ?a )
+    BIND( wfn:runSPARQL(1,2,3) AS ?b)
+    ?s ?p ?o
+ FILTER(?o < afn:pi() )
+}

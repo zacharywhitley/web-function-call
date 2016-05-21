@@ -1,0 +1,13 @@
+#PREFIX wfn : <http://webofcode.org/wfn/>
+PREFIX wfn: <java:org.webofcode.atzori.>
+SELECT ?result { 
+	# bind variables to parameter values 
+	VALUES (?query ?endpoint) { ( 
+		"BIND ( IF(?i0 <= 0, 1, ?i0 * wfn:runSPARQL(?query,?endpoint, ?i0 -1)) AS ?result)" 
+		"http://runsparql.webofcode.org/sparql"
+	)}
+
+	# actual call of the recursive query 
+	BIND( wfn:runSPARQL(?query,?endpoint,3) AS ?result)
+
+} LIMIT 1
