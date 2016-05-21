@@ -1,0 +1,7 @@
+PREFIX wfn: <http://webofcode.org/wfn/>
+PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
+SELECT *
+{
+   BIND( wfn:call(fn:concat,"alpha","BETA") as ?res )
+} 
+

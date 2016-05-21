@@ -1,0 +1,7 @@
+PREFIX wfn: <http://webofcode.org/wfn/>
+PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
+SELECT *
+{
+   BIND( wfn:call(CONCAT(STR(fn:concat),"@http://swipe.unica.it/jena/sparql"),"alpha","BETA") as ?res )
+} 
+
