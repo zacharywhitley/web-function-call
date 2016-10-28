@@ -9,7 +9,7 @@ The following steps have been tested using Apache Fuseki 2.4.0 and Apache Jena 3
 
 1. download and unzip Apache Fuseki 2.4.0 and Apache Jena 3.1.0
 2. clone the callsparql repository
-3. compile callsparql and create the file `wfn_call.jar` with the following commands (Java 8 is required):
+3. *(this step is optional; a compiled version is already present)* compile callsparql and create the file `wfn_call.jar` with the following commands (Java 8 is required):
 ```bash
 cd callsparql
 # create compiled classes on org/ dir (assuming jena is installed at ../apache-jena-3.1.0/)
