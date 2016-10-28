@@ -1,13 +1,13 @@
 package org.webofcode.atzori;
 
-import com.hp.hpl.jena.sparql.function.*;
-import com.hp.hpl.jena.sparql.expr.NodeValue;
-import com.hp.hpl.jena.query.*;
-import com.hp.hpl.jena.rdf.model.RDFNode;
-import com.hp.hpl.jena.sparql.util.Utils;
-import com.hp.hpl.jena.sparql.expr.ExprEvalException;
-import com.hp.hpl.jena.sparql.expr.ExprList;
-import com.hp.hpl.jena.sparql.ARQInternalErrorException;
+import org.apache.jena.sparql.function.*;
+import org.apache.jena.sparql.expr.NodeValue;
+import org.apache.jena.query.*;
+import org.apache.jena.rdf.model.RDFNode;
+//import org.apache.jena.sparql.util.Utils;
+import org.apache.jena.sparql.expr.ExprEvalException;
+import org.apache.jena.sparql.expr.ExprList;
+import org.apache.jena.sparql.ARQInternalErrorException;
 import java.util.List;
 
 public class call extends FunctionBase {
@@ -23,7 +23,7 @@ public class call extends FunctionBase {
     @Override
     public void checkBuild(String uri, ExprList args) { 
         if ( args.size() < 1 )
-            throw new QueryBuildException("Function '"+Utils.className(this)+"' takes at least one argument") ;
+            throw new QueryBuildException("Function '"+ "call" /*Utils.className(this)*/ +"' takes at least one argument") ;
     }
 
     @Override
@@ -31,10 +31,10 @@ public class call extends FunctionBase {
     {
         if ( args == null )
             // The contract on the function interface is that this should not happen.
-            throw new ARQInternalErrorException("Function '"+Utils.className(this)+"': Null args list") ;
+            throw new ARQInternalErrorException("Function '"+ "call" /*Utils.className(this)*/ +"': Null args list") ;
         
         if ( args.size() < 1 )
-            throw new ExprEvalException("Function '"+Utils.className(this)+"' takes at least one argument") ;
+            throw new ExprEvalException("Function '"+ "call" /*Utils.className(this)*/ +"' takes at least one argument") ;
         NodeValue nvFunction = args.remove(0);
         return compute(nvFunction, args) ;
     }
@@ -59,7 +59,7 @@ public class call extends FunctionBase {
             service = s[1];
         } else {
             // compute service by nvFunction
-            service = "http://swipe.unica.it/jena/sparql";
+            service = "localhost";
         }
 
         //nvEndpoint.asUnquotedString();
@@ -82,7 +82,12 @@ public class call extends FunctionBase {
         System.out.println("query: "+query); 
         System.out.println("service: "+service);
 
-        QueryExecution qe = QueryExecutionFactory.sparqlService(service, query);
+		QueryExecution qe;
+		if (service.equals("localhost")) {
+		    qe = QueryExecutionFactory.create(query, DatasetFactory.create());
+		} else { 
+	        qe = QueryExecutionFactory.sparqlService(service, query);
+		}
         ResultSet rs = qe.execSelect();
         
 	if (rs == null) return NodeValue.makeString("null"); //throw new RuntimeException("runSPARQL: null as result");
