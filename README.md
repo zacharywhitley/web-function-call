@@ -1,15 +1,15 @@
-# A SPARQL Function to Rule Them All
+# One SPARQL Function to Rule Them All
 
 We developed a SPARQL function called `wfn:call` that takes as a parameter an URI representing a function and then other arguments for the specified function. The `wfn:call` function executes the specified URI function against an appropriate remote endpoint (that implements such a function), passing the arguments and getting the result back. It allows interoperable remote invocation of functions (including high-order functions) from within a SPARQL query. 
 
 Further details available at the [official website](http://atzori.webofcode.org/projects/wfn/).
 
 ## Installation 
-The following steps have been tested using Apache Fuseki 2.4.0 and Apache Jena 3.1.0, Ubuntu 16.04 and OpenJDK "1.8.0_91".
+The following steps have been tested using Apache Fuseki 2.4.0 and Apache Jena 3.1.0, Ubuntu 16.04 and OpenJDK "1.8.0_91":
 
-1. download and unzip Apache Fuseki 2.4.0 and Apache Jena 3.1.0
-2. clone the callsparql repository
-3. *(this step is optional; a compiled version is already present)* compile callsparql and create the file `wfn_call.jar` with the following commands (Java 8 is required):
+  1. download and unzip Apache Fuseki 2.4.0 and Apache Jena 3.1.0
+  1. clone the callsparql repository
+  1. *(this step is optional; a compiled version is already present)* compile callsparql and create the file `wfn_call.jar` with the following commands (Java 8 is required): 
 ```bash
 cd callsparql
 # create compiled classes on org/ dir (assuming jena is installed at ../apache-jena-3.1.0/)
@@ -19,11 +19,13 @@ jar cvf wfn_call.jar org
 # clean
 rm -rf org/
 ```
-4. go to the fuseki dir and run it: `java -Xmx1200M -cp fuseki-server.jar:../callsparql/wfn_call.jar org.apache.jena.fuseki.cmd.FusekiCmd`
+
+
+Now go to the fuseki dir and run the following (assuming callsparql dir is side-by-side with the fuseki dir): `java -Xmx1200M -cp fuseki-server.jar:../callsparql/wfn_call.jar org.apache.jena.fuseki.cmd.FusekiCmd`
 
 
 ## Test
-The following query:
+Go to [http://127.0.0.1:3030/](http://127.0.0.1:3030/) and run the following query:
 ```
 #PREFIX wfn: <http://webofcode.org/wfn/>
 PREFIX wfn: <java:org.webofcode.atzori.>
@@ -55,4 +57,3 @@ will compute again the same concatenation on the localhost, this time against th
 ## Notes
 
 callSPARQL depends on the following Jena libraries: jena-core, jena-arq and jena-iri.
-
