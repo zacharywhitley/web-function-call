@@ -5,7 +5,7 @@ We developed a SPARQL function called `wfn:call` that takes as a parameter an UR
 Further details available at the [official website](http://atzori.webofcode.org/projects/wfn/).
 
 ## Installation 
-The following steps have been tested using Apache Fuseki 2.4.0 and Apache Jena 3.1.0, Ubuntu 16.04 and OpenJDK "1.8.0_91":
+The following steps have been tested using Apache Fuseki 2.4.0 and Apache Jena 3.1.0, Ubuntu 16.04 and OpenJDK "1.8.0_91".
 
   1. download and unzip Apache Fuseki 2.4.0 and Apache Jena 3.1.0
   1. clone the callsparql repository
@@ -22,6 +22,21 @@ rm -rf org/
 
 
 Now go to the fuseki dir and run the following (assuming callsparql dir is side-by-side with the fuseki dir): `java -Xmx1200M -cp fuseki-server.jar:../callsparql/wfn_call.jar org.apache.jena.fuseki.cmd.FusekiCmd`
+
+
+As a simple reference, we also provide the following commands to be run on a terminal:
+```bash
+mkdir fuseki-call && cd fuseki-call
+git clone https://bitbucket.org/atzori/callsparql.git 
+wget http://mirror.nohup.it/apache/jena/binaries/apache-jena-3.1.0.tar.gz
+wget http://mirror.nohup.it/apache/jena/binaries/apache-jena-fuseki-2.4.0.tar.gz
+tar xvzf apache-jena-3.1.0.tar.gz 
+tar xvzf apache-jena-fuseki-2.4.0.tar.gz 
+rm -rf apache-jena-fuseki-2.4.0.tar.gz apache-jena-3.1.0.tar.gz 
+cd apache-jena-fuseki-2.4.0/
+java -Xmx1200M -cp fuseki-server.jar:../callsparql/wfn_call.jar org.apache.jena.fuseki.cmd.FusekiCmd -mem /ds
+```
+
 
 
 ## Test
