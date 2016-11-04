@@ -71,4 +71,5 @@ will compute again the same concatenation on the localhost, this time against th
 
 ## Notes
 
-callSPARQL depends on the following Jena libraries: jena-core, jena-arq and jena-iri.
+ - callSPARQL depends on the following Jena libraries: jena-core, jena-arq and jena-iri.
+ - [Emrah Inan](http://einan.github.io/) used the callSPARQL to develop an [Apache Jena Console App for the Call Function](https://github.com/einan/callApp).
